@@ -282,10 +282,9 @@ telnet 192.168.1.101 5052
 ### 專案結構
 ```
 ├── src/
-│   ├── main/           # Electron 主進程
+│   ├── main/           # 主進程
 │   ├── preload/        # 預載腳本
-│   └── renderer/       # 前端介面
-├── bin/               
+│   └── renderer/       # 前端介面               
 ├── models/             # 模型檔案
 └── package.json
 ```
